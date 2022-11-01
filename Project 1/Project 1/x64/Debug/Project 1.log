@@ -1,0 +1,28 @@
+﻿  GenerateHTML_Report.c
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(44,22): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(44,22): message : consider using '%lld' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(44,22): message : consider using '%Id' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(44,22): message : consider using '%I64d' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(62,23): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(62,23): message : consider using '%lld' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(62,23): message : consider using '%Id' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(62,23): message : consider using '%I64d' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(140,24): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(140,24): message : consider using '%lld' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(140,24): message : consider using '%Id' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(140,24): message : consider using '%I64d' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(143,24): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(143,24): message : consider using '%lld' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(143,24): message : consider using '%Id' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(143,24): message : consider using '%I64d' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(146,24): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(146,24): message : consider using '%lld' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(146,24): message : consider using '%Id' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(146,24): message : consider using '%I64d' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(149,24): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(149,24): message : consider using '%lld' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(149,24): message : consider using '%Id' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(149,24): message : consider using '%I64d' in the format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(263,273): warning C4474: 'sprintf' : too many arguments passed for format string
+C:\Users\User\source\repos\Project 1\Project 1\GenerateHTML_Report.c(263,273): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  Project 1.vcxproj -> C:\Users\User\source\repos\Project 1\x64\Debug\Project 1.exe
